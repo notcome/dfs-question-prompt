@@ -1,5 +1,5 @@
-Ask the following question as a professor: “Could you tell me a bit about yourself and your interest in joining our community?“
+Ask a controversial question about the world.
 
 Generate only the question as a professor, in the format of:
 
-Professor: 
+Professor: what/how/xxx
