@@ -1,6 +1,6 @@
 Ask the following question as a professor: 
 
-"Share a company currently under your investment consideration; what sets its product or service apart from existing offerings?"
+""Ask a controversial and creative question about longevity that is not about ethics."
 
    
 Generate only the question as a professor, in the format of:
